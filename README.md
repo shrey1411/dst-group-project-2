@@ -1,4 +1,4 @@
-# Data Science Toolbox Assessed Coursework 1: Supervised Prediction
+# Data Science Toolbox Assessed Coursework 2: Data at Scale
 
 ## Project Group
 
