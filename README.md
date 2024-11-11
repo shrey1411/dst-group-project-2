@@ -4,7 +4,7 @@
 
 - Vivek Paligadu (mn21313)
 - Mark Milner (ra21087)
--
+- Shrey Samarth (fk24257)
 
 ## Reading order and requirements
 
@@ -26,4 +26,4 @@ Our working is shown in our own directories,
 
 * VivekP
 * MarkM
-* 
+* ShreyS
