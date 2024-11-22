@@ -9,3 +9,8 @@ VivekP/model_saved/depths/model_depth_5.keras
 .vscode/settings.json
 VivekP/cleaned/
 report/.ipynb_checkpoints/04-ReLU-checkpoint.ipynb
+report/model_saved/depths/model_depth_1.keras
+report/model_saved/depths/model_depth_2.keras
+report/model_saved/depths/model_depth_3.keras
+report/model_saved/depths/model_depth_5.keras
+report/model_saved/depths/model_depth_4.keras
