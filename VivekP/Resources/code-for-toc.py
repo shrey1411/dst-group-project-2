@@ -41,4 +41,6 @@ def extract_headings_and_generate_toc(filepath):
     print(f"Table of Contents added and saved as {toc_filepath}")
 
 # Usage
-extract_headings_and_generate_toc('03-EDA.ipynb')
+extract_headings_and_generate_toc('VivekP/Proofread+Integration/SS/SSOriginal.ipynb')
+
+
